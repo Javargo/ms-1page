@@ -7,7 +7,7 @@ const msalConfig = {
     auth: {
         clientId: "8f6f3136-de9c-450e-9b83-bf9d30ea2bf0",
         authority: "https://login.microsoftonline.com/common",
-        redirectUri: "https://javargo.github.io/ms-1page/index.html/",
+        redirectUri: "https://javargo.github.io/ms-1page/index.html",
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
